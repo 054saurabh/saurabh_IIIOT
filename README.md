@@ -1,1 +1,2 @@
 # saurabh_IIIOT
+The project's main objective is to provide a contactless solution for temperature monitoring and door handling in public areas such as offices, schools, hospitals, and other high-traffic areas. The system includes a thermal sensor that can quickly and accurately measure a person's temperature without requiring physical contact, reducing the risk of viral transmission. Additionally, the system uses an automatic door handling mechanism that allows people to enter and exit public spaces without touching the door handle, further reducing the risk of transmission.
